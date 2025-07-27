@@ -1,2 +1,2 @@
-# Bash_scripts
-scripts
+# Bash_script
+This project is a lightweight yet effective Bash script designed to continuously monitor CPU, memory, and disk usage on a Linux system in real time. It provides a simple way to track resource consumption without relying on third-party monitoring tools or agents. By default, the script checks if any of these resources exceed a usage threshold of 80%, and if so, it immediately displays a clear, color-coded alert message in the terminal to help you take timely action. The script runs in a loop, updating resource statistics every few seconds, making it useful for identifying sudden spikes in usage or ongoing performance issues. It's ideal for beginners learning bash scripting for local system monitoring.
